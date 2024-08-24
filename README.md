@@ -44,6 +44,6 @@ With a commitment to creating optimal user experiences and innovative web soluti
 
 <p align="left">
 <a href="https://linkedin.com/in/mukhliskhoirudinn"><img src="https://img.shields.io/badge/-mukhliskhoirudinn%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@mukhliskhoirudinn-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="mailto:avsingh@umass.edu"><img src="https://img.shields.io/badge/-mukhliskhoirudinn@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/mukhliskhoirudinn"><img src="https://img.shields.io/badge/-@mukhliskhoirudinn-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="mailto:mukhliskhoirudinn@gmail.com"><img src="https://img.shields.io/badge/-mukhliskhoirudinn@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
