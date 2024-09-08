@@ -2,11 +2,7 @@
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
 ### 👨‍💻 About me
-I am a Web Developer who focuses on website development both on the front-end and back-end. Currently, I am developing technical skills and a deep understanding of web technologies.
-
-My skills include HTML, CSS, and JavaScript, as well as the use of modern frameworks such as Tailwind CSS, Bootstrap, and Laravel. I am also experienced in server side development with PHP and database management using MySQL. Additionally, I am proficient in using development tools such as Laragon, XAMPP, and phpMyAdmin, which enable efficient management of the development environment.
-
-With a commitment to creating optimal user experiences and innovative web solutions, I keep up to date with the latest technological developments and strive to make a significant contribution in every project I work on.
+As a dedicated Web Developer, I am passionate about creating user-centric web solutions that are both innovative and efficient. With a strong foundation in both front-end and back-end development, I bring a comprehensive approach to each project, ensuring a seamless and engaging user experience. My commitment to continuous learning drives me to stay updated with the latest industry trends, allowing me to deliver modern and impactful digital solutions.
 
 ---
 
