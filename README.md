@@ -22,9 +22,9 @@ As a dedicated Web Developer, I am passionate about creating user-centric web so
   <a href="https://getbootstrap.com/" target="_blank">
     <img src="https://cdn.simpleicons.org/bootstrap/563D7C" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>
   </a>
-  <a href="https://jquery.com/" target="_blank">
+<!--   <a href="https://jquery.com/" target="_blank">
     <img src="https://cdn.simpleicons.org/jquery/0769AD" title="jQuery" alt="jQuery" width="40" height="40"/>
-  </a>
+  </a> -->
 
   <!-- Backend Technologies -->
   <a href="https://www.php.net/" target="_blank">
