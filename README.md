@@ -1,6 +1,6 @@
 <h1 align="left">Hi there, I'm <a href="https://github.com/mukhliskhoirudinn/" target="_blank">Mukhlis Khoirudin</a> <img
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mukhliskhoirudinn&label=Profile%20views&color=0e75b6&style=flat" alt="mukhliskhoirudinn" /> </p>
 ### 👨‍💻 About me
 As a dedicated Web Developer, I am passionate about creating user-centric web solutions that are both innovative and efficient. With a strong foundation in both front-end and back-end development, I bring a comprehensive approach to each project, ensuring a seamless and engaging user experience. My commitment to continuous learning drives me to stay updated with the latest industry trends, allowing me to deliver modern and impactful digital solutions.
 
