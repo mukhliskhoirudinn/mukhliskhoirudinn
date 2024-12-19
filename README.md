@@ -52,13 +52,13 @@ Web Developer focused on back-end development using Laravel. I am committed to d
 ## ⚙️ &nbsp;GitHub Static
 <!-- snake graph -->
 <div align="left">
-  <picture>
+<!--   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/mukhliskhoirudinn/mukhliskhoirudinn/blob/main/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/mukhliskhoirudinn/mukhliskhoirudinn/blob/main/github-contribution-grid-snake.svg" />
     <img src="https://github.com/mukhliskhoirudinn/mukhliskhoirudinn/blob/main/github-contribution-grid-snake.svg" alt="github-snake" />
-  </picture>
+  </picture> -->
 </div>
-<br>
+<!-- <br> -->
 
 <p align="left">
 <a href="https://github.com/mukhliskhoirudinn">
