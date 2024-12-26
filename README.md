@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mukhliskhoirudinn&label=Profile%20views&color=0e75b6&style=flat" alt="mukhliskhoirudinn" /> </p>
 
 <h1 align="left">Hi there, I'm <a href="https://github.com/mukhliskhoirudinn/" target="_blank">Mukhlis Khoirudin</a><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
-Web Developer focused on back-end development using Laravel. I am committed to delivering efficient and high-quality solutions that enhance user experience. By continuously updating my knowledge of the latest technologies and best practices, I strive to create reliable applications that meet the needs of clients and users.
+I am a Web Developer specializing in back-end development with Laravel. My focus is on delivering effective and high-quality solutions that improve user experiences. I stay up-to-date with the latest technologies and industry best practices to ensure the creation of dependable applications that align with the needs of clients and users.
 <br><br>
 
 ## 🛠  Languages and Tools
